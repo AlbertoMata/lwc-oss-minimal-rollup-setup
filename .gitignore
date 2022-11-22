@@ -1,0 +1,10 @@
+node_modules
+
+# Project should be replicable using a standard configuration on any system that
+# supports the specified packages, so package tree and auto-generated
+# distributables are discarded
+package-lock.json
+
+src/client/dist/
+src/server/dist/
+
