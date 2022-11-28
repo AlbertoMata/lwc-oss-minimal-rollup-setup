@@ -1,4 +1,4 @@
-## LWC-OSS Minimal Rollup Setup
+# LWC-OSS Minimal Rollup Setup
 
 This code repository intends to be an example of how to build a minimal static
 `lwc-oss` site served by using `express` and bundled with `rollup`. 
@@ -31,9 +31,9 @@ delivered by package maintainers and Salesforce, the structure might change.
 Also, if new features are needed to assure basic security or functionality,
 we'll add new packages. 
 
-## Bundling
+## Bundler
 
-We are using `rollup` for bundling the project since it keeps the project
+We are using `rollup` for bundling purposes since it can set the project up and
 running with a minimal set of dependencies, the config script might get more
 complex in future releases.
 
