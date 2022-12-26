@@ -5,6 +5,8 @@ node_modules
 # distributables are discarded
 package-lock.json
 
-src/client/dist/
-src/server/dist/
+build/
+dist/
 
+.env
+index.js

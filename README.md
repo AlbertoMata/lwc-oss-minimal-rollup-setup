@@ -19,8 +19,10 @@ npm run dev
 ## Structure
 
 The site is designed using a basic client-server architecture keeping the file
-structure simple but organized. Web architects may follow a different path, but
-the intention is to provide a basis for future templates.
+structure simple but organized. Web architects may follow a different folder
+structure, but the intention is to provide a basis for future templates. The
+scripts establish a clear difference between a dev environment and a production
+one.
 
 
 ## Dependencies
