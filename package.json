@@ -1,7 +1,7 @@
 {
   "scripts": {
     "dev": "set NODE_ENV=development && npx rollup -c -w",
-    "start": "npx rollup -c -w"
+    "start": "set NODE_ENV=production && npx rollup -c -w"
   },
   "author": "AlbertoMata",
   "devDependencies": {
